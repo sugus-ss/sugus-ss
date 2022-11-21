@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Gus
 - 👀 I’m interested in Software engineer
 - 🌱 I’m currently learning Computer Engineering (KMUTT)
+- Cat lover
 
 <!---
 sugus-ss/sugus-ss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
