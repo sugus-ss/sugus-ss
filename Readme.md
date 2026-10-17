@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gus
-- 🌱 I’m Software engineer
+- 🌱 I’m a Software engineer
 - Like to learn
 - Cat lover
 
