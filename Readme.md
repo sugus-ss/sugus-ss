@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Gus
-- 👀 I’m interested in Software engineer
-- 🌱 I’m currently learning Computer Engineering (KMUTT)
+- 🌱 I’m Software engineer
 - Like to learn
 - Cat lover
 
